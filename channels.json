@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "id": "bht1",
+      "name": "BHT 1",
+      "enabled": true,
+      "provider": "fab",
+      "startPage": 100,
+      "config": {
+        "baseUrl": "https://teletext.bhrt.ba",
+        "encoding": "windows-1250"
+      }
+    }
+  ]
+}
